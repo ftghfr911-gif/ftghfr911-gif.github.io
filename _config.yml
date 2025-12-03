@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: Rong Wu # the website title (if blank, full name will be used instead)
-first_name: Jay
-middle_name: Rong Wu
+first_name: Rong
+middle_name: Rong
 last_name: Wu
 email: rong.wu@ucsf.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -289,7 +289,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: [Wu]
-  first_name: [Jay Zhangjie, Zhangjie]
+  first_name: [Rong]
 
   style: apa
   locale: en
