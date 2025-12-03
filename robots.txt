@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ftghfr911-gif.github.io/sitemap.xml
