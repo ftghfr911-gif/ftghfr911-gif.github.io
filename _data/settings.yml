@@ -10,9 +10,9 @@ menu:
 #- {name: 'About', menu: '', path: ''}
 - {name: 'Blog', path: 'menu', url: 'blog.html'}
 - {name: 'Papers', path: 'menu', url: 'papers.html'}
-- {name: 'Press', path: 'menu', url: 'press.html'}
+#- {name: 'Press', path: 'menu', url: 'press.html'}
 - {name: 'Talks', path: 'menu', url: 'talks.html'}
-- {name: 'Climate Resources', path: 'menu', url: 'climate.html'}
+#- {name: 'Climate Resources', path: 'menu', url: 'climate.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
