@@ -1,11 +1,7 @@
 _site
 Gemfile.lock
+*.gem
 .sass-cache
 .jekyll-metadata
 .DS_Store
-.Rproj.user
-certificate
-fabiandablander.com.*
-blogpost-plans.txt
-in-progress
-simulations
+.jekyll-cache
